@@ -1,1 +1,1 @@
-![](https://raw.githubusercontent.com/1member1/1member1/main/main.gif)
+![](https://github-readme-stats.vercel.app/api?username=1member1&show_icons=true)
